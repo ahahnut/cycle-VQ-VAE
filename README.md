@@ -1,6 +1,8 @@
 # cycle-VQ-VAE
 Audio-Visual Autoencoding for Privacy-Preserving Video Streaming
 
+Link: [https://drive.google.com/drive/folders/19C4vm8Ltag-HnIHl0hN42bPGTlOjZPbN?usp=sharing]
+
 ## Requirements
 It requires python3, python3-pip and the packages listed in [requirements.txt](requirements.txt).
 
